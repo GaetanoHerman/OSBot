@@ -1,2 +1,2 @@
 # OSBot
-OSBot Scripts (Java)
+Finished projects for OSBot, automatization program for Oldschool Runescape
