@@ -1,0 +1,2 @@
+# OSBot
+OSBot Scripts (Java)
